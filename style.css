@@ -18,6 +18,9 @@
 #img-div {
   background-color: white;
   margin: 1rem;
+  width: 100%;
+  display: block;
+  height: auto;
 }
 #img-caption{
   padding: 20px;
