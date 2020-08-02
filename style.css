@@ -1,0 +1,38 @@
+#main{
+  background-color: rgb(126,249,255);
+  text-align: center;
+}
+#heading{
+  background-color: #0c1445;
+    color: white;
+    font-size: 1.15em;
+    text-align: center;
+    padding: 18px;
+    margin: 0 -0.5rem;
+    margin-top: -11px;
+    top: -20rem;
+}
+#title{
+  padding-top: 5px;
+}
+#img-div {
+  background-color: white;
+  margin: 1rem;
+}  
+#img-caption{
+  padding: 20px;
+  font-size: 1.1em;
+}
+#tribute-info {
+  list-style-position: inside;
+  text-align: start;
+  padding-left: 350px;
+  font-size: 1.2em;
+}
+#tribute-info li {
+  text-indent: -1.3em;
+  padding: 0.5rem;
+}
+#wikipedia {
+  font-size: 1.1em;
+}
