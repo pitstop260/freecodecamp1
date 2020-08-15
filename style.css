@@ -394,7 +394,7 @@ h5 {
         background-color: #ffcf01;
         border: none;
     }
-    iframe {
+    .responsive-iframe {
         position: relative;
         right: 25px;
         width: auto;
